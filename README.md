@@ -16,8 +16,8 @@ An example of an *unordered list* looks like this:
 
 I frequently visit the
 [Free Wesleyan Church of Tonga homepage](https://fwc.to), the
-[Tongan the YouVersion Bible](https://www.bible.com/bible/1307/EPH.6.TMB), and the
+[Tongan version of the YouVersion Bible](https://www.bible.com/bible/1307/EPH.6.TMB), and the
 [University of Auckland HOMEPAGE](https://www.auckland.ac.nz/en.html).
 
-
-Lately, this is what I have been doing:![comp](https://pixabay.com/gifs/type-computer-tea-cup-hot-14704)
+As for my university studies, this is how I am looking at my computer most of the time
+![duhh](https://programmerhumor.io/debugging-memes/otherwise-known-as-vibe-architects-5gyr)
