@@ -1,13 +1,23 @@
-# stats220
+# Stats220
 
 ## Project 1
 
-This is my repo for STATS 220. 
+This is for my **first project submission**.
 
-A little about me:
+An example of an *ordered list* looks like this:
+1. Summer School
+2. Semester ONE
+3. Semester TWO
 
-- I am undertaking a degree in Statistics.
-- I am taking STATS 220 because it is part of my core requirements. 
-- I am interested in learning about analysing statistics. 
+An example of an *unordered list* looks like this:
+* Summer School
+* Semester ONE
+* Semester TWO
 
-A meme that captures how I currently feel about my university studies is ![](https://c.tenor.com/8druEACXtX8AAAAd/tenor.gif)
+Below are links to websites that I frequently use:
+[Free Wesleyan Church of Tonga](https://fwc.to)
+[Tongan version of the YouVersion Bible](https://www.bible.com/bible/1307/EPH.6.TMB)
+[University of Auckland HOMEPAGE](https://www.auckland.ac.nz/en.html)
+
+
+Lately, this is what I have been doing: ![](https://pixabay.com/gifs/type-computer-tea-cup-hot-14704)
