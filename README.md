@@ -20,4 +20,4 @@ I frequently visit the
 [University of Auckland HOMEPAGE](https://www.auckland.ac.nz/en.html).
 
 As for my university studies, this is how I am looking at my computer most of the time
-![duhh](https://programmerhumor.io/debugging-memes/otherwise-known-as-vibe-architects-5gyr)
+![duhh](https://pixabay.com/gifs/type-computer-keyboard-finger-jobs-19346/)
